@@ -839,7 +839,7 @@ def output_straight_trace(op,dim,ini_W,fin_W,draw,lab_str) :
   fin = img_point(fin_W,dim.map); # End point.
   if (draw) :
     sys.stdout.write( \
-      '    <path d="M '+ pfm(ini) +' L '+ pfm(fin) +'" ' + style + '/> -->\n' \
+      '    <path d="M '+ pfm(ini) +' L '+ pfm(fin) +'" ' + style + '/>\n' \
     );
   # Compute the label position and displacement:
   mid = rn.scale(0.5,rn.add(ini,fin)); # Midpoint of trace.
@@ -865,7 +865,7 @@ def output_point(op,dim,pos_W,rad_W,x_str,y_str,z_str) :
   if (rad > 0) :
     sys.stdout.write( \
       '    <circle '+ xyfm(pos,'c') +' r="'+ dts(rad) +'"' \
-             ' stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/> -->\n' \
+             ' stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>\n' \
     );
   
   # Compute the label position and displacement:
