@@ -224,7 +224,7 @@ def output_figure_preamble(op,dim) :
   sys.stdout.write( \
     '<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n' \
     '<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">\n' \
-    '<!-- Created on '+ date.isoformat(date.today()) +' by Jorge Stolfi with the script make-coord-system-figure -->\n' \
+    '<!-- Created on '+ date.isoformat(date.today()) +' by Robin Green with the script make-coord-system-figure -->\n' \
     '<!-- This file is declared PUBLIC DOMAIN by its creator -->\n' \
     '\n' \
     '<svg\n' \
