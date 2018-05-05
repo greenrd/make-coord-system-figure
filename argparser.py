@@ -1,6 +1,5 @@
 #! /usr/bin/python -t
 # _*_ coding: iso-8859-1 _*_
-# Last edited on 2009-04-04 02:34:09 by stolfilocal
 
 MODULE_NAME = "argparser"
 MODULE_DESC = "Tools for command line parsing"

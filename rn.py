@@ -1,6 +1,5 @@
 #! /usr/bin/python -t
 # _*_ coding: iso-8859-1 _*_
-# Last edited on 2009-05-03 02:01:26 by stolfi
 
 MODULE_NAME = "rn"
 MODULE_DESC = "Linear algebra operations on numeric vectors"

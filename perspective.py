@@ -1,6 +1,5 @@
 #! /usr/bin/python -t
 # _*_ coding: iso-8859-1 _*_
-# Last edited on 2009-05-02 20:09:04 by stolfi
 
 MODULE_NAME = "perspective"
 MODULE_DESC = "Computes a perspective projection matrix from camera data"

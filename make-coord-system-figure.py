@@ -1,6 +1,5 @@
 #! /usr/bin/python -t 
 # _*_ coding: iso-8859-1 _*_
-# Last edited on 2009-05-03 18:12:55 by stolfilocal
 
 PROG_NAME = "make-coord-system-figure"
 PROG_DESC = "Generates an SVG illustration for the Wikipedia articles on coord systems"

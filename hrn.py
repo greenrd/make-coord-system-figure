@@ -1,6 +1,5 @@
 #! /usr/bin/python -t
 # _*_ coding: iso-8859-1 _*_
-# Last edited on 2009-05-02 20:17:13 by stolfi
 
 MODULE_NAME = "hrn"
 MODULE_DESC = "Oriented projective geometry in {n} dimensions"
